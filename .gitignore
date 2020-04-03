@@ -1,0 +1,5 @@
+.idea
+springcloud-seata-account/target
+springcloud-seata-common/target
+springcloud-seata-order/target
+springcloud-seata-storage/target
